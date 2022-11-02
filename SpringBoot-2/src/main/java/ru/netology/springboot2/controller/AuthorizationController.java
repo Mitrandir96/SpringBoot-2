@@ -27,14 +27,4 @@ public class AuthorizationController {
     public List<Authorities> getAuthorities(@RequestParam ("user") @Validated String user, @RequestParam ("password") @Validated String password) {
         return service.getAuthorities(user, password);
     }
-
-    @ExceptionHandler(InvalidCredentials.class)
-    public ResponseEntity<String> InvalidUser(InvalidCredentials e) {
-        return new ResponseEntity<>("User name or password is empty", HttpStatus.BAD_REQUEST);
-    }
-
-    @ExceptionHandler(UnauthorizedUser.class)
-    public ResponseEntity<String> notFoundUser(UnauthorizedUser e) {
-        return new ResponseEntity<>("Unknown user" , HttpStatus.UNAUTHORIZED);
-    }
 }
