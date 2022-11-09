@@ -1,0 +1,9 @@
+ru\netology\springboot2\authorities\Authorities.class
+ru\netology\springboot2\SpringBoot2Application.class
+ru\netology\springboot2\controller\AuthorizationController.class
+ru\netology\springboot2\service\AuthorizationService.class
+ru\netology\springboot2\repository\UserRepository.class
+ru\netology\springboot2\model\User.class
+ru\netology\springboot2\exception\ExceptionHandlerAdvice.class
+ru\netology\springboot2\exception\UnauthorizedUser.class
+ru\netology\springboot2\exception\InvalidCredentials.class

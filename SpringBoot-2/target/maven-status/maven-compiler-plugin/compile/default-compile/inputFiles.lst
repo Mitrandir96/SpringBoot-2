@@ -1,0 +1,9 @@
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\authorities\Authorities.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\model\User.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\exception\InvalidCredentials.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\SpringBoot2Application.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\service\AuthorizationService.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\exception\ExceptionHandlerAdvice.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\repository\UserRepository.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\exception\UnauthorizedUser.java
+C:\Users\i.grachev\IdeaProjects\GIT projects\SpringBoot-2\SpringBoot-2\src\main\java\ru\netology\springboot2\controller\AuthorizationController.java
